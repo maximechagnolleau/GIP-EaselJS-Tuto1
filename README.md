@@ -1,1 +1,3 @@
-# GIP-EaselJS-Tuto1
+# Game in Progress
+
+## EaselJS - Tuto 1 : dessine-moi un menu
